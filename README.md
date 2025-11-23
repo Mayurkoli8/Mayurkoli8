@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **Custom chatbots, AI app architecture, Streamlit/FastAPI backends & Firebase basics**  
 
-- 📫 How to reach me: **mayurkoli699@gmail.com**  
+- 📫 How to reach me: **mayurkoli.mentesa.live**  
 
 - ⚡ Fun fact: **I like building AI tools that feel like smart teammates, not robots 😄**  
 
