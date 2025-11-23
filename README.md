@@ -5,14 +5,14 @@
 
 <h1 align="center">
   Hi 
-  <img alt="hand" src="HAND_GIF_URL" width="40" loading="lazy" />
+  <img alt="hand" src="hand.gif" width="40" loading="lazy" />
   , I'm Mayur Koli
 </h1>
 
 <h3 align="center">An AI & Full-Stack Developer from India</h3>
 
 <!-- 🔹 Replace CODER_GIF_URL with your own coder gif -->
-<img width="300" align="right" alt="coder.gif" src="CODER_GIF_URL" height="250" loading="lazy"/>
+<img width="300" align="right" alt="coder.gif" src="coder.gif" height="250" loading="lazy"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Mayurkoli8&theme=tokyonight&label=Profile%20views&color=0e75b6&style=flat" alt="Mayurkoli8" />
