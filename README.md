@@ -1,31 +1,157 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>New AI-driven side projects & experiments<br><br>Improving conversational agents and LLM UX<br><br>Building tools that make AI usage more intuitive<br><br>👯 I’m looking to collaborate on<br><br>Generative AI and agent-based systems<br><br>Full-stack projects with real-world user impact<br><br>Open-source AI tools<br><br>🤝 I’m looking for help with<br><br>Scaling AI apps<br><br>Optimizing model interaction & context management<br><br>Improving knowledge-retrieval and embeddings<br><br>🌱 I’m currently learning<br><br>Advanced prompt engineering<br><br>Cloud architecture & deployment<br><br>Real-world AI productization<br><br>💬 Ask me about<br><br>Building custom chatbots<br><br>AI product strategy & design<br><br>Full-stack engineering<br><br>Firebase & vector search basics<br><br>⚡ Fun fact<br><br>I like building AI tools that feel like smart teammates, not robots 😄
+<p align="center">
+  <!-- 🔹 Replace BANNER_IMAGE_URL with your own banner image link -->
+  <img src="BANNER_IMAGE_URL" style="width: 1200px; height: auto" title="Banner" />
+</p>
+
+<h1 align="center">
+  Hi 
+  <img alt="hand" src="HAND_GIF_URL" width="40" loading="lazy" />
+  , I'm Mayur Koli
+</h1>
+
+<h3 align="center">An AI & Full-Stack Developer from India</h3>
+
+<!-- 🔹 Replace CODER_GIF_URL with your own coder gif -->
+<img width="300" align="right" alt="coder.gif" src="CODER_GIF_URL" height="250" loading="lazy"/>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mayurkoli8&theme=tokyonight&label=Profile%20views&color=0e75b6&style=flat" alt="Mayurkoli8" />
+</p>
+
+<!-- If you ever make a Twitter/X, add badge like this and update handle
+<p align="left">
+  <a href="https://twitter.com/YOUR_HANDLE" target="blank">
+    <img src="https://img.shields.io/twitter/follow/YOUR_HANDLE?logo=twitter&style=for-the-badge" alt="twitter" />
+  </a>
+</p>
+-->
+
+- 🌱 I’m currently learning **Advanced Prompt Engineering, Cloud Deployments & AI Productization**  
+
+- 🔭 I’m currently working on **LLM-based chatbots, agent systems & AI tooling**  
+
+- 👯 I’m looking to collaborate on **Generative AI projects, agent-based systems & full-stack AI products**  
+
+- 🤝 I’m looking for help with **scaling AI apps, context management & better retrieval pipelines**  
+
+- 💬 Ask me about **Custom chatbots, AI app architecture, Streamlit/FastAPI backends & Firebase basics**  
+
+- 📫 How to reach me: **mayurkoli699@gmail.com**  
+
+- ⚡ Fun fact: **I like building AI tools that feel like smart teammates, not robots 😄**  
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mayur8_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/mayur-koli-484603215) 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="1000" src="https://github-profile-trophy.vercel.app/?username=Mayurkoli8&column=9&theme=tokyonight&no-frame=true" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mayurkoli8&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mayurkoli8&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurkoli8&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mayurkoli8&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayur-koli-484603215" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-koli-484603215" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/mayur8_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayur8_" height="30" width="40" />
+  </a>
+  <!-- Add more if you want:
+  <a href="https://leetcode.com/YOUR_ID" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  </a>
+  -->
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mayurkoli8&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+  <!-- Core Web & Backend -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/>
+  </a>
+
+  <!-- Cloud & Hosting -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="render" width="40" height="40"/>
+  </a>
+
+  <!-- Databases & Auth -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+
+  <!-- Version Control -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
+  </a>
+
+  <!-- Optional Web Basics -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+
+</p>
+
+## 📈 GITHUB ACTIVITY STATUS
+
+### GitHub Status
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayurkoli8&theme=tokyonight" width="35%" align="left" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurkoli8&theme=tokyonight" width="51%" />
+
+<br/><br/><br/>
+
+### Languages Status
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayurkoli8&theme=tokyonight" width="40%" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurkoli8&theme=tokyonight" width="34%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayurkoli8&theme=tokyonight" width="35%" />
+
+<br/><br/>
+
+### Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayurkoli8&theme=react-dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayurkoli8&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayurkoli8&theme=tokyonight" width="50%" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mayurkoli8&icon=0&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/mayurkoli) 
+### ✍️ Random Dev Quote
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Mayurkoli8&icon=7&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mayurkoli)
+
+<!-- Inspired by GPRM ( https://gprm.itsvg.in ) -->
