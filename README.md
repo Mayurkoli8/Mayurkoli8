@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 🔹 Replace BANNER_IMAGE_URL with your own banner image link -->
-  <img src="BANNER_IMAGE_URL" style="width: 1200px; height: auto" title="Banner" />
+  <img src="baner.png" style="width: 1200px; height: auto" title="Banner" />
 </p>
 
 <h1 align="center">
@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **Custom chatbots, AI app architecture, Streamlit/FastAPI backends & Firebase basics**  
 
-- 📫 How to reach me: **mayurkoli.mentesa.live**  
+- 📫 How to reach me: **<a href="https://mayurkoli.mentesa.live/">mayurkoli.contact</a>**  
 
 - ⚡ Fun fact: **I like building AI tools that feel like smart teammates, not robots 😄**  
 
@@ -148,7 +148,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mayurkoli8&icon=7&color=0)](https://visitcount.itsvg.in)
 
----
 
 ## 💰 You can help me by Donating
 
