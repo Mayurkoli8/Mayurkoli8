@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 🔹 Replace BANNER_IMAGE_URL with your own banner image link -->
-  <img src="baner.png" style="width: 1200px; height: auto" title="Banner" />
+  <img src="banner.png" style="width: 1200px; height: auto" title="Banner" />
 </p>
 
 <h1 align="center">
